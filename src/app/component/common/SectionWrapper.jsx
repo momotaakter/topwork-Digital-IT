@@ -12,9 +12,6 @@ export default function SectionWrapper({ children }) {
       md:py-16 
       lg:py-20
 
-
-
-
     ">
       {children}
     </section>
